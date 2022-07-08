@@ -23,9 +23,19 @@ html{
         scroll-behavior: smooth;
 }
 
-section{
-        padding: 2rem 9%;
+/* =================== ADDED BY HOSSAIN FOYSAL  =================== */
+       
+.container {
+        max-width: 968px;
+        margin: auto;
+        overflow: hidden;
 }
+
+    
+/* section{
+        padding: 2rem 9%;
+} */
+/* =================== END OF ADDING  =================== */
 section:nth-child(even){
         background: #eee;
 }
