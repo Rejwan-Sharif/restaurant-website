@@ -1,3 +1,4 @@
-# Website is live on: https://rejwan-sharif.github.io/restaurant-website/
+Website is live 
+https://rejwan-sharif.github.io/restaurant-website/
 
 Enjoy 🎉
